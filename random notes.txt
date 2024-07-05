@@ -1,0 +1,17 @@
+..\..\..\env_site\Scripts\activate.ps1
+
+python manage.py createsuperuser
+
+Superuser:
+sancom
+sancom@gmail.com
+sancom2024
+1234
+
+root
+P@1cT.Com@254
+
+10.30.20.22
+Password: p@1cT.com
+
+hilda pass - P@1cT.Com@254
